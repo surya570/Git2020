@@ -3,7 +3,7 @@ agent none
 stages{
  stage ('STart'){
   steps {
- echo 'Start pipeline, Hello Hasdfghj'
+ echo 'Start pipeline, Hello Hghj'
   }
  }
  stage ('Build'){
